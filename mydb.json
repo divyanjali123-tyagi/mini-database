@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "name": "Divya",
+      "age": 21,
+      "city": "Chennai",
+      "_id": 1
+    },
+    {
+      "name": "Rahul",
+      "age": 25,
+      "city": "Bangalore",
+      "_id": 2
+    },
+    {
+      "name": "Priya",
+      "age": 21,
+      "city": "Delhi",
+      "_id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "Laptop",
+      "price": 50000,
+      "stock": 10,
+      "_id": 1
+    },
+    {
+      "name": "Phone",
+      "price": 20000,
+      "stock": 25,
+      "_id": 2
+    },
+    {
+      "name": "Tablet",
+      "price": 30000,
+      "stock": 5,
+      "_id": 3
+    }
+  ]
+}
